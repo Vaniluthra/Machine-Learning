@@ -1,3 +1,4 @@
+#Install these modules before executing the file; TensorFlow, Matplotlib
 import tensorflow as tf
 from tensorflow.keras import layers, models
 from tensorflow.keras.datasets import mnist
